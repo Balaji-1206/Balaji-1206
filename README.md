@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- ==================== HERO SECTION // GRAPHIC NOVEL DOSSIER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=220&section=header&text=BALAJI%20P&fontSize=48&fontColor=F3EEE6&desc=Software%20Developer&descSize=20&fontAlignY=38&descAlignY=62" width="100%" alt="Balaji P // Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=200&section=header&text=BALAJI%20P&fontSize=50&fontColor=F3EEE6&desc=SOFTWARE%20DEVELOPER&descSize=21&fontAlignY=40&descAlignY=64" width="100%" alt="Balaji P // Header Banner" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Character & Profile Illustration Integration -->
   <a href="https://github.com/Balaji-1206">
-    <img src="./assets/coding.png" width="175" alt="Balaji P // Engineering Dossier" />
+    <img src="./assets/coding.png" width="180" alt="Balaji P // Coding Dossier" />
   </a>
 
   <br/><br/>
@@ -41,31 +41,14 @@
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 👨‍💻 ABOUT ME
 
-```yaml
-# SYSTEM DOSSIER // AGENT IDENTIFICATION
-identity:
-  name: Balaji P
-  role: Software Developer
-  field: Computer Science & Engineering
-  base: Chennai, India 🇮🇳
+Computer Science student & **Software Developer** based in Chennai, India 🇮🇳  
+Passionate about engineering clean, scalable full-stack applications, robust backend systems, and solving complex problems with high-performance code.
 
-system_architecture:
-  core_focus:
-    - Clean & Scalable Full-Stack Applications
-    - Robust Backend Systems
-    - Problem Solving & High-Performance Code
-  status: Active // Building Resilient Systems
-```
-
-◆ **Discipline & Core Focus** :: Computer Science student & **Software Developer** based in Chennai, India.  
-▸ **Engineering Philosophy** :: Passionate about engineering clean, scalable full-stack applications and robust backend architectures.  
-◈ **Problem Solving** :: Dedicated to crafting resilient, maintainable software systems and tackling complex problems with high-performance code.  
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🛠️ TECHNICAL SKILLS
 
@@ -103,54 +86,21 @@ system_architecture:
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ⚡ ENGINEERING FOCUS
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <code><b>[ MODULE 01 // FULL-STACK DEVELOPMENT ]</b></code><br/><br/>
-      <b>◈ Modern Web Applications</b><br/>
-      <sub>Architecting complete client-server ecosystems with React, Next.js, and TypeScript paired with high-performance APIs.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <code><b>[ MODULE 02 // BACKEND ENGINEERING ]</b></code><br/><br/>
-      <b>◈ Server Systems & APIs</b><br/>
-      <sub>Designing robust services with FastAPI, Node.js, and Express, focusing on structured data flow and endpoint reliability.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <code><b>[ MODULE 03 // PROBLEM SOLVING & DSA ]</b></code><br/><br/>
-      <b>◈ Algorithmic Efficiency</b><br/>
-      <sub>Writing optimized, high-performance logic in C++, Python, and Java with strong computational foundations.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <code><b>[ MODULE 04 // SCALABLE ARCHITECTURE ]</b></code><br/><br/>
-      <b>◈ Resilient Systems</b><br/>
-      <sub>Building maintainable software architectures backed by Docker containerization, PostgreSQL, and Linux environments.</sub>
-    </td>
-  </tr>
-</table>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 📊 GITHUB ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-1206&show_icons=true&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194&rank_icon=github" height="170" alt="Balaji P GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Balaji-1206&show_icons=true&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194&rank_icon=github" height="170" alt="Balaji P GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=Balaji-1206&background=0B0D10&border=8E1B1B&stroke=142B3D&ring=C62828&fire=C62828&currStreakNum=F3EEE6&sideNums=E8DED0&sideLabels=5E8194&dates=8B8F94" height="170" alt="Balaji P Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-1206&layout=compact&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194" height="170" alt="Balaji P Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Balaji-1206&layout=compact&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194" height="170" alt="Balaji P Top Languages" />
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 🐍 CONTRIBUTION ACTIVITY
-
-> `// TELEMETRY FEED` :: Dynamic contribution grid tracking repository commits and development cycles.
 
 <div align="center">
   <picture>
@@ -160,7 +110,7 @@ system_architecture:
   </picture>
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## 📬 LET'S CONNECT
 
@@ -180,9 +130,9 @@ system_architecture:
 
 <!-- ==================== FOOTER // GRAPHIC NOVEL DOSSIER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,30:142B3D,70:8E1B1B,100:C62828&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=100&section=footer" width="100%" alt="Footer Banner" />
 
   <p align="center">
-    <sub>⭐ Profile overview of <b>Balaji P</b> · Software Developer</sub>
+    <sub>Profile overview of <b>Balaji P</b> · Software Developer</sub>
   </p>
 </div>

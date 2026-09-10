@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== HERO SECTION // GRAPHIC NOVEL DOSSIER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=200&section=header&text=BALAJI%20P&fontSize=50&fontColor=F3EEE6&desc=SOFTWARE%20DEVELOPER&descSize=21&fontAlignY=40&descAlignY=64" width="100%" alt="Balaji P // Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=220&section=header&text=BALAJI%20P&fontSize=48&fontColor=F3EEE6&desc=SOFTWARE%20DEVELOPER&descSize=20&fontAlignY=38&descAlignY=62" width="100%" alt="Balaji P // Header Banner" />
 
   <br/><br/>
 
@@ -130,7 +130,7 @@ Passionate about engineering clean, scalable full-stack applications, robust bac
 
 <!-- ==================== FOOTER // GRAPHIC NOVEL DOSSIER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,28:142B3D,70:8E1B1B,100:C62828&height=120&section=footer" width="100%" alt="Footer Banner" />
 
   <p align="center">
     <sub>Profile overview of <b>Balaji P</b> · Software Developer</sub>

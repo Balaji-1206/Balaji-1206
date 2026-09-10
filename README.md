@@ -95,7 +95,7 @@ Passionate about engineering clean, scalable full-stack applications, robust bac
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=Balaji-1206&background=0B0D10&border=8E1B1B&stroke=142B3D&ring=C62828&fire=C62828&currStreakNum=F3EEE6&sideNums=E8DED0&sideLabels=5E8194&dates=8B8F94" height="170" alt="Balaji P Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Balaji-1206&layout=compact&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194" height="170" alt="Balaji P Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Balaji-1206&layout=compact&hide=jupyter%20notebook&bg_color=0B0D10&border_color=8E1B1B&title_color=C62828&text_color=E8DED0&icon_color=5E8194" height="170" alt="Balaji P Top Languages" />
 </div>
 
 ---

@@ -67,8 +67,6 @@ Computer Science student & **Software Developer** based in Chennai. Passionate a
 
 ### 🐍 Contribution Activity Snake
 
-> **Note**: To display the animated contribution snake below, push this repository to your GitHub account (`Balaji-1206/Balaji-1206`) and run the workflow under `.github/workflows/snake.yml`. It will generate and maintain the snake SVG.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balaji-1206/Balaji-1206/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balaji-1206/Balaji-1206/output/github-snake.svg"/>
